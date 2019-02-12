@@ -4,6 +4,7 @@ setup(
     name                = 'ypcc',
     version             = '0.3',
     description         = 'ccpy',
+    license             = 'MIT',
     author              = 'jeakwon',
     author_email        = 'onlytojay@gmail.com',
     url                 = 'https://github.com/jeakwon/ccpy',
