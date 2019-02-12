@@ -11,7 +11,7 @@ setup(
     install_requires    =  [],
     packages            = find_packages(exclude = []),
     keywords            = ['ccpy'],
-    python_requires     = ['>=3'],
+    python_requires     = '>=3',
     package_data        = {},
     zip_safe            = False,
     classifiers         = [
