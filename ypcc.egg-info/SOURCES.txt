@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+ypcc.egg-info/PKG-INFO
+ypcc.egg-info/SOURCES.txt
+ypcc.egg-info/dependency_links.txt
+ypcc.egg-info/not-zip-safe
+ypcc.egg-info/top_level.txt
