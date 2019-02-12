@@ -1,11 +1,11 @@
 Metadata-Version: 1.2
 Name: ypcc
-Version: 0.2
+Version: 0.3
 Summary: ccpy
 Home-page: https://github.com/jeakwon/ccpy
 Author: jeakwon
 Author-email: onlytojay@gmail.com
-License: UNKNOWN
+License: MIT
 Download-URL: https://github.com/jeakwon/ccpy/archive/0.0.tar.gz
 Description: UNKNOWN
 Keywords: ccpy
