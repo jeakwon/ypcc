@@ -9,7 +9,7 @@ setup(
     author_email        = 'onlytojay@gmail.com',
     url                 = 'https://github.com/jeakwon/ccpy',
     download_url        = 'https://github.com/jeakwon/ccpy/archive/0.0.tar.gz',
-    install_requires    =  [],
+    install_requires    = .
     packages            = find_packages(exclude = []),
     keywords            = ['ccpy'],
     python_requires     = '>=3',
