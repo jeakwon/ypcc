@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name                = 'ypcc',
-    version             = '0.4',
+    version             = '0.5',
     description         = 'ccpy',
     license             = 'MIT',
     author              = 'jeakwon',
