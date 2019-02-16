@@ -2,16 +2,18 @@ from setuptools import setup, find_packages
 
 setup(
     name                = 'ypcc',
-    version             = '0.5',
+    version             = '0.6.2',
     description         = 'ccpy',
     license             = 'MIT',
     author              = 'jeakwon',
     author_email        = 'onlytojay@gmail.com',
-    url                 = 'https://github.com/jeakwon/ccpy',
-    download_url        = 'https://github.com/jeakwon/ccpy/archive/0.0.tar.gz',
-    install_requires    = .
+    url                 = 'https://github.com/jeakwon/ypcc',
+    download_url        = 'https://github.com/jeakwon/ypcc/archive/0.0.tar.gz',
+    install_requires    = [
+        "numpy < 1.15"
+    ],
     packages            = find_packages(exclude = []),
-    keywords            = ['ccpy'],
+    keywords            = ['ypcc'],
     python_requires     = '>=3',
     package_data        = {},
     zip_safe            = False,
