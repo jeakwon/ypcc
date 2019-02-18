@@ -4,7 +4,7 @@ with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
 setup(
     name                = 'ypcc',
-    version             = '0.7.0',
+    version             = '0.7.1',
     long_description    = long_description,
     long_description_content_type='text/markdown',
     description         = 'ccpy',
