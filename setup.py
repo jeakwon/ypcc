@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name                = 'ypcc',
-    version             = '0.6.3',
-    long_description    = 'Hello. This is ypcc.',
+    version             = '0.6.4',
+    long_description    = '# Hello. This is ypcc.',
     description         = 'ccpy',
     license             = 'MIT',
     author              = 'jeakwon',
